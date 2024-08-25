@@ -1,1 +1,1 @@
-# CardioVascularDisaseDetection
+# CardioVascularDiseseDetection
